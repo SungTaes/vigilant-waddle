@@ -23,6 +23,8 @@
 	
 	<tbody>
 		<%
+			// 성태짱이 넣은 코드~	
+		
 			for(Entry<String, AlbasengVO> entry : SimpleFormProcessServlet_SEM.albasengs.entrySet()){
 				%>
 				<tr>
